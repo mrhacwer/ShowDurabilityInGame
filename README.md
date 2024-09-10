@@ -1,4 +1,4 @@
-# ShowDurabilityInGame
+# ShowDurabilityInGame - Mad Island Mod
 
 This is a mod for [Melon Loader](https://melonwiki.xyz/#/)
 [https://melonwiki.xyz/#/](https://melonwiki.xyz/#/)
