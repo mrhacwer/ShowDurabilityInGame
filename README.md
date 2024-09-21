@@ -1,4 +1,7 @@
-# ShowDurabilityInGame - Mad Island Mod
+> [!WARNING]
+> I moved this page from GitHub to another location. [Click here](https://github.com/mrhacwer/Mods-for-Mad-Island) to go to the new directory on GitHub.
+
+### ShowDurabilityInGame - Mad Island Mod
 
 This is a mod for [Melon Loader](https://melonwiki.xyz/#/)
 [https://melonwiki.xyz/#/](https://melonwiki.xyz/#/)
