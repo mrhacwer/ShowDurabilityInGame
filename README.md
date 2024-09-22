@@ -1,5 +1,7 @@
 > [!WARNING]
-> I moved this page from GitHub to another location. [Click here](https://github.com/mrhacwer/Mods-for-Mad-Island) to go to the new directory on GitHub.
+> I moved this page to another GitHub location.</br>
+> [Click here](https://github.com/mrhacwer/Mods-for-Mad-Island) to go to the new directory on GitHub.</br>
+> In this new GitHub, you can find more mods.</br>
 
 ### ShowDurabilityInGame - Mad Island Mod
 
